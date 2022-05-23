@@ -1,12 +1,13 @@
-### Hola Mundo 👋
+# Mi información
+## Hola Mundo 👋
 
 ```js
 console.log("Hello Word!");
 ```
-### 🙋‍♂️ Sobre mi:
+## 🙋‍♂️ Sobre mi:
 Soy un chico que le gusta programar en JS con la herramienta NodeJS. Soy archivista de la serie de Doki.
 
-### 💾 Lenguajes y herramientas:
+## 💾 Lenguajes y herramientas:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -19,6 +20,7 @@ Soy un chico que le gusta programar en JS con la herramienta NodeJS. Soy archivi
 
 <br />
 <br />
+
 <!--
 **ShimixD/ShimixD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
