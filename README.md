@@ -5,7 +5,7 @@
 console.log("Hello Word!");
 ```
 ## 🙋‍♂️ Sobre mi:
-Soy un chico que le gusta programar en JS con la herramienta NodeJS. Soy archivista de la serie de Doki.
+Me gusta programar aplicaciones y paginas web, usando varias herramientas.
 
 ## 💾 Lenguajes y herramientas:
 
